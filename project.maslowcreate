@@ -663,8 +663,8 @@
         {
             "atomType": "Molecule",
             "name": "Jig Saw",
-            "x": 0.5205026455026455,
-            "y": 0.7630769230769231,
+            "x": 0.5198412698412698,
+            "y": 0.7692307692307692,
             "uniqueID": 806305,
             "ioValues": [],
             "topLevel": false,
@@ -872,8 +872,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolts",
-                    "x": 0.6825396825396826,
-                    "y": 0.8123076923076924,
+                    "x": 0.6871693121693122,
+                    "y": 0.8092307692307692,
                     "uniqueID": 633159,
                     "ioValues": [],
                     "topLevel": false,
@@ -899,15 +899,15 @@
                                 },
                                 {
                                     "name": "zDist",
-                                    "ioValue": -3
+                                    "ioValue": 0
                                 }
                             ]
                         },
                         {
                             "atomType": "Extrude",
                             "name": "Extrude",
-                            "x": 0.19113756613756613,
-                            "y": 0.24615384615384617,
+                            "x": 0.1746031746031746,
+                            "y": 0.2430769230769231,
                             "uniqueID": 327052,
                             "ioValues": [
                                 {
@@ -923,8 +923,8 @@
                         {
                             "atomType": "Circle",
                             "name": "Circle",
-                            "x": 0.06150793650793651,
-                            "y": 0.39692307692307693,
+                            "x": 0.06481481481481481,
+                            "y": 0.3692307692307692,
                             "uniqueID": 665925,
                             "ioValues": [
                                 {
@@ -937,7 +937,7 @@
                             "atomType": "Color",
                             "name": "Color",
                             "x": 0.3247354497354497,
-                            "y": 0.2369230769230769,
+                            "y": 0.20923076923076925,
                             "uniqueID": 786233,
                             "ioValues": [
                                 {
@@ -950,8 +950,8 @@
                         {
                             "atomType": "Move",
                             "name": "Move",
-                            "x": 0.2645502645502646,
-                            "y": 0.4061538461538462,
+                            "x": 0.25925925925925924,
+                            "y": 0.4,
                             "uniqueID": 717383,
                             "ioValues": [
                                 {
@@ -968,7 +968,7 @@
                                 },
                                 {
                                     "name": "zDist",
-                                    "ioValue": 2
+                                    "ioValue": 3
                                 }
                             ]
                         },
@@ -992,8 +992,8 @@
                         {
                             "atomType": "Color",
                             "name": "Color",
-                            "x": 0.3531746031746032,
-                            "y": 0.39692307692307693,
+                            "x": 0.3525132275132275,
+                            "y": 0.3723076923076923,
                             "uniqueID": 901263,
                             "ioValues": [
                                 {
@@ -1015,10 +1015,6 @@
                                     "ioValue": "source/660467/806305/633159/901263Color"
                                 },
                                 {
-                                    "name": "3D shape 5",
-                                    "ioValue": "source/660467/806305/633159/223073Color"
-                                },
-                                {
                                     "name": "3D shape 6",
                                     "ioValue": "source/660467/806305/633159/786233Color"
                                 }
@@ -1033,7 +1029,7 @@
                             "ioValues": [
                                 {
                                     "name": "diameter",
-                                    "ioValue": 6
+                                    "ioValue": 7
                                 }
                             ]
                         },
@@ -1391,13 +1387,6 @@
                         },
                         {
                             "ap1Name": "geometry",
-                            "ap2Name": "3D shape 5",
-                            "ap2Primary": false,
-                            "ap1ID": 223073,
-                            "ap2ID": 210236
-                        },
-                        {
-                            "ap1Name": "geometry",
                             "ap2Name": "geometry",
                             "ap2Primary": true,
                             "ap1ID": 772319,
@@ -1546,8 +1535,8 @@
         {
             "atomType": "Stl",
             "name": "Stl",
-            "x": 0.8273809523809523,
-            "y": 0.7138461538461538,
+            "x": 0.8214285714285714,
+            "y": 0.6984615384615385,
             "uniqueID": 521311,
             "ioValues": [
                 {
